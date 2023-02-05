@@ -1,4 +1,2 @@
-#!bin/b
-
-ash
-The schoolisopen!
+#!/bin/bash
+the school is open!
